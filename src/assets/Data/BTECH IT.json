@@ -9,6 +9,7 @@
         "start": "9:00 AM",
         "end": "11:00 AM"
       },
+
       "B": {
         "course": "ICT 255 / DTL217",
         "name": "Data Structure Lab",
@@ -41,13 +42,14 @@
         "start": "1:30 PM",
         "end": "3:30 PM"
       },
+
       "B": {
         "course": "ICT 251 / DTL318",
         "name": "Database Management System Lab",
         "shortName": "DBMS LAB",
         "Faculty": "TBA",
-        "start": "3:30 PM",
-        "end": "4:30 PM"
+        "start": "1:30 PM",
+        "end": "3:30 PM"
       }
     },
     {
@@ -100,6 +102,7 @@
     }
   ],
   "Wednesday": [
+
     {
       "course": "BC 123 / E111",
       "name": "Bridge Course in Mathematics",
@@ -108,6 +111,7 @@
       "start": "9:00 AM",
       "end": "11:00 AM"
     },
+   
     {
       "course": "ICT 209 / E111",
       "name": "Object Oriented Programming Using C++",
@@ -116,7 +120,7 @@
       "start": "11:00 AM",
       "end": "12:00 PM"
     },
-    {
+     {
       "course": "ICT 201 / E111",
       "name": "Foundations of Computer Science",
       "shortName": "FCS",
@@ -136,16 +140,16 @@
         "name": "Object Oriented programming using C++ Lab",
         "shortName": "OOPS LAB",
         "Faculty": "Ms Priyanka Bhutani",
-        "start": "3:30 PM",
-        "end": "5:30 PM"
+        "start": "1:30 PM",
+        "end": "3:30 PM"
       },
       "B": {
         "course": "ICT 257 / ETL312",
         "name": "Operating Systems Lab ",
         "shortName": "OS LAB ",
         "Faculty": "---",
-        "start": "3:30 PM",
-        "end": "5:30 PM"
+        "start": "1:30 PM",
+        "end": "3:30 PM"
       }
     },
     {
@@ -232,6 +236,7 @@
     }
   ],
   "Friday": [
+    
     {
       "course": "BC 123 / E111",
       "name": "Bridge Course in Programming in C",
@@ -240,6 +245,7 @@
       "start": "9:00 AM",
       "end": "11:00 AM"
     },
+
     {
       "course": "ICT 211 / E111",
       "name": "Data Structures",
@@ -270,13 +276,13 @@
       "start": "3:30 PM",
       "end": "4:30 PM"
     },
-    {
+     {
       "course": "ICT 205 / E111",
       "name": "Digital Logic and Computer Design",
       "shortName": "DLCD",
       "Faculty": "Ms. P. Choudhary",
       "start": "4:30 PM",
       "end": "5:30 PM"
+    }]
     }
-  ]
-}
+    
